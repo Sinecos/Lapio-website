@@ -2,6 +2,34 @@ h2 {color: brown;}
 h3 {color: brown;}
 ul{color: violet;}
 
+
+* {
+    box-sizing: border-box;
+}
+  
+  .box {
+    display: inline-block;
+    position: relative;
+    width: 200px;
+    height: 100px;
+    color: black;
+  }
+
+  #one {
+    background-color: red;
+  }
+
+  #two {
+    background-color: yellow;
+    left: 30px;
+  }
+
+  #three {
+    background-color: green;
+    left: 60px;
+
+  }
+
 .leipateksti {
     color: brown;
   }
