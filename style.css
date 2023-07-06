@@ -1,1 +1,11 @@
-p {background-color: red;}
+h2 {color: brown;}
+h3 {color: brown;}
+ul{color: violet;}
+
+.leipateksti {
+    color: brown;
+  }
+  
+  #punainen-kohta {
+    color: red;
+  }
