@@ -13,20 +13,28 @@ ul{color: violet;}
     width: 200px;
     height: 100px;
     color: black;
+    text-align: center;
+    text-transform: uppercase;
+    
   }
 
   #one {
+    border: 10px solid green;
     background-color: red;
   }
 
   #two {
+    border: 10px solid red;
     background-color: yellow;
     left: 30px;
+    bottom: 18px;
   }
 
   #three {
+    border: 10px solid yellow;
     background-color: green;
     left: 60px;
+    bottom: 18px;
 
   }
 
